@@ -1,7 +1,7 @@
 import requests
 from pprint import pprint
 
-API_Key = 'a93ceabab06761ba48d37d5fa852d393'
+API_Key = '' # You can put an API key generated on openweathermap.org
 
 city = input('Insira a Cidade: ')
 
